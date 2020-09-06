@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'>
+    <updatecheck codebase='http://myhost.com/mytestextension/mte_v2.crx' version='0.1' prodversionmin='3.0.193.0'/>
+	<!--<updatecheck codebase='http://myhost.com/mytestextension/mte_v2.crx' version='2.0' prodversionmin='3.0.193.0'/>-->
+	<!--
+	
+	appid扩展程序或 Chrome 应用标识符，基于公共密钥的散列值生成,进入扩展程序页面（chrome://extensions）找到您的扩展程序标识符
+	
+	codebase 指向扩展程序 .crx 文件的 URL
+	version用于客户端识别版本更新
+	
+	元素添加 "prodversionmin" 属性 确保只有用户正在运行 Google Chrome 3.0.193.0 或更新版本时才会自动更新
+	
+	-->
+  </app>
+</gupdate>
