@@ -42,80 +42,80 @@
 
 | 档案编号 | 标题 | 事件日期 | 事件地点 | 类型 | 描述 |
 |---------|------|---------|---------|------|------|
-| DOW-UAP-D003 | Mission Report, Arabian Gulf, 2020 | N/A | N/A | PDF | 观察到"一排点后跟一个尾随点" |
-| DOW-UAP-D004 | Mission Report, Arabian Gulf, 2020 | N/A | N/A | PDF | UAP速度321节(369 mph)，加速并向东改变方向 |
-| DOW-UAP-D005 | Mission Report, Arabian Gulf, 2020 | N/A | 地中海 | PDF | 两个UAP速度278节(320 mph)，加速向南改变方向 |
-| DOW-UAP-D006 | Mission Report, Arabian Gulf, 2020 | N/A | 太平洋 | PDF | 观察到一个UAP |
-| DOW-UAP-D007 | Mission Report, Arabian Gulf, 2020 | N/A | N/A | PDF | "看起来像气球"，约31,000英尺高度随风移动 |
-| DOW-UAP-D008 | Mission Report, Djibouti, 2025 | N/A | 地中海 | PDF | 两个"白色热UAP"，速度约240节(276 mph) |
-| DOW-UAP-D010 | Mission Report, Middle East, May 2022 | 2022/5/6 | 伊拉克 | PDF | "5个UAP飞过屏幕"，一个"可能导弹"，四个"可能鸟类" |
-| DOW-UAP-D012 | Mission Report, Iraq, May 2022 | 2022/5/20 | 伊拉克 | PDF | 一个UAP从北向东北飞行，无法确认身份 |
-| DOW-UAP-D014 | Mission Report, Iraq, May 2022 | 2022/5/29 | 叙利亚 | PDF | 一个UAP从北向东北飞行 |
-| DOW-UAP-D016 | Mission Report, Syria, July 2022 | 2022/7/31 | 叙利亚 | PDF | 一个UAP从北向南移动，持续时间不到一分钟 |
-| DOW-UAP-D018 | Mission Report, Iraq, December 2022 | 2022/12/1 | 伊拉克 | PDF | 一个"可能UAP"从西向东飞行 |
-| DOW-UAP-D019 | Mission Report, Syria, February 21, 2023 | 2023/2/21 | 叙利亚 | PDF | 一个"可能气球"约2,100英尺高度 |
-| DOW-UAP-D020 | Mission Report, Iraq, 2023 | 2023/3/31 | 伊拉克 | PDF | "几个明亮物体快速机动"，追踪约20秒后变暗消失 |
-| DOW-UAP-D023 | Mission Report, UAE, October 2023 | 2023/10/31 | 阿拉伯湾 | PDF | 观察到一个UAP |
-| DOW-UAP-D025 | Mission Report, Greece, January 2024 | 2024/1/25 | 地中海 | PDF | 菱形UAP，速度约434节(499 mph)，底部有非机动探针，仅SWIR传感器可见 |
-| DOW-UAP-D027 | Mission Report, UAE, October 2023 | 2024/6/7 | 阿曼湾 | PDF | 一个UAP约24,000英尺高度，速度163节(187 mph) |
-| DOW-UAP-D028 | Mission Report, Iraq, September 2024 | 2024/9/20 | 伊拉克 | PDF | 武器校准测试中观察到镜头光斑，描述为UAP高速移动 |
-| DOW-UAP-D032 | Mission Report, Syria, October 2024 | 2024/10/20 | 叙利亚 | PDF | "变形不均匀的白色光球"，多个"眩光或光线"从"未知来源"发出 |
-| DOW-UAP-D033 | Mission Report, Greece, October 2023 | 2023/10/27 | 爱琴海 | PDF | UAP"在海面上方飞行"，多次90度转弯，约80 mph |
-| DOW-UAP-D035 | Mission Report, Greece, October 2023 | 2023/10/29 | 爱琴海 | PDF | UAP"在海面上方直线飞向陆地" |
-| DOW-UAP-D038 | Range Fouler Debrief, Middle East, May 2020 | 2020/5/14 | 阿拉伯湾 | PDF | "固体白色物体"在水面上方不规则移动 |
-| DOW-UAP-D042 | Range Fouler Debrief, Japan, 2023 | 2020/8/31 | 阿拉伯湾 | PDF | 三个UAP"相互移动"，第二个超过第一个 |
-| DOW-UAP-D044 | Range Fouler Reporting Form, Gulf of Aden, October 2020 | 2020/10/15 | 阿拉伯海 | PDF | "圆形冷物体"，红外传感器，319度(西北)方向，约20 mph，突然改变方向 |
-| DOW-UAP-D048 | Department of the Air Force Report, 1996 | 1996/9/10 | N/A | PDF | 不太可能的太空助推器故障风险计算建模 |
-| DOW-UAP-D049 | Launch Summary, Vandenberg AFB, 2000 | 2000/2/3 | N/A | PDF | 范登堡空军基地1958-2000年发射历史记录摘要 |
-| DOW-UAP-D050 | Email Correspondence, INDOPACOM, April 2025 | 2025/4/10-11 | N/A | PDF | 描述任务报告内容并请求澄清的电子邮件通信 |
-| DOW-UAP-D051 | Email Correspondence, Pacific Time Zone, March 2023 | 2026/3/23 | 太平洋时区 | PDF | 描述任务报告内容并请求澄清的电子邮件通信 |
-| DOW-UAP-D052 | Email Correspondance, NA, August 2024 | 2024/10/31 | N/A | PDF | 描述任务报告内容并请求澄清的电子邮件通信 |
-| DOW-UAP-D054 | Mission Report, Mediterranean Sea, NA | N/A | 地中海 | PDF | "三角形金属UAP"，高度24,989英尺，速度168节(193 mph) |
-| DOW-UAP-D055 | Mission Report, Syria, November 2016 | 2016/11/18 | 叙利亚 | PDF | P-8A飞机通过EO/IR传感器观察到物体，"海掠模式"，约500节(575 mph)，东南航向，两分钟后失去视觉接触 |
-| DOW-UAP-D056 | Range Fouler Debrief, Arabian Sea, August 2020 | 2020/8/24 | 阿拉伯海 | PDF | 北阿拉伯海上空三个"不明小型空中接触"，有"机翼/机身"结构 |
-| DOW-UAP-D057 | Range Fouler Reporting Form, Gulf of Aden, September 2020 | 2020/9/4 | 亚丁湾 | PDF | "圆形冷物体"，追踪8分钟，"黑热"红外传感器，168度方向277 mph，几次突然改变方向 |
-| DOW-UAP-D058 | Range Fouler Debrief, NA, October 2020 | 2020/10/27 | N/A | PDF | 两个UAP，"气球形状"，金属反射，"2x红色闪烁频闪灯"，一个围绕另一个盘旋 |
-| DOW-UAP-D060 | Mission Report, Arabian Gulf, August 2020 | 2020/8/8 | 阿拉伯湾 | PDF | 一个UAP"过境"，对任务无影响 |
-| DOW-UAP-D061 | Mission Report, Arabian Gulf, August 2020 | 2020/8/27 | 阿拉伯湾 | PDF | "未知飞行物体编队"沿海岸从东北向西北约两分钟 |
-| DOW-UAP-D062 | Mission Report, Strait of Hormuz, September 2020 | 2020/9/16 | 霍尔木兹海峡 | PDF | 一个UAP约1,800英尺高度 |
-| DOW-UAP-D063 | Mission Report, Strait of Hormuz, October 2020 | 2020/10/1 | 霍尔木兹海峡 | PDF | 观察到一个UAP |
-| DOW-UAP-D064 | Mission Report, Iran, November 2020 | 2020/11/2 | 伊朗 | PDF | 两个UAP，2143Z和2148Z，第二个向西北方向移动 |
-| DOW-UAP-D065 | Mission Report, Arabian Gulf, July 2020 | 2020/7/16 | 阿拉伯湾 | PDF | 三个独立UAP，1830Z、1920Z和2345Z |
-| DOW-UAP-D074 | Mission Report, Syria, November 2023 | 2023/11/9 | 叙利亚 | PDF | "弹跳球形状"UAP，约424节(483 mph)持续至少7分钟，从南方接近，评估为"良性" |
-| DOW-UAP-D075 | Mission Report, Gulf of Aden, July 2024 | 2024/7/14 | 亚丁湾 | PDF | 一个UAP，"直线飞行路径相同高度"，速度"快于飞行速度"，评估为"良性" |
+| DOW-UAP-D003 | Mission Report, Arabian Gulf, 2020 | N/A | N/A | PDF | 观察到"一排点后跟一个尾随点" [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d3-mission-report-arabian-gulf-2020.pdf) |
+| DOW-UAP-D004 | Mission Report, Arabian Gulf, 2020 | N/A | N/A | PDF | UAP速度321节(369 mph)，加速并向东改变方向 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d4-mission-report-arabian-gulf-2020.pdf) |
+| DOW-UAP-D005 | Mission Report, Arabian Gulf, 2020 | N/A | 地中海 | PDF | 两个UAP速度278节(320 mph)，加速向南改变方向 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d5-mission-report-arabian-gulf-2020.pdf) |
+| DOW-UAP-D006 | Mission Report, Arabian Gulf, 2020 | N/A | 太平洋 | PDF | 观察到一个UAP [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d6-mission-report-arabian-gulf-2020.pdf) |
+| DOW-UAP-D007 | Mission Report, Arabian Gulf, 2020 | N/A | N/A | PDF | "看起来像气球"，约31,000英尺高度随风移动 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d7-mission-report-arabian-gulf-2020.pdf) |
+| DOW-UAP-D008 | Mission Report, Djibouti, 2025 | N/A | 地中海 | PDF | 两个"白色热UAP"，速度约240节(276 mph) [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d8-mission-report-djibouti-2025.pdf) |
+| DOW-UAP-D010 | Mission Report, Middle East, May 2022 | 2022/5/6 | 伊拉克 | PDF | "5个UAP飞过屏幕"，一个"可能导弹"，四个"可能鸟类" [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf) |
+| DOW-UAP-D012 | Mission Report, Iraq, May 2022 | 2022/5/20 | 伊拉克 | PDF | 一个UAP从北向东北飞行，无法确认身份 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d12-mission-report-iraq-may-2022.pdf) |
+| DOW-UAP-D014 | Mission Report, Iraq, May 2022 | 2022/5/29 | 叙利亚 | PDF | 一个UAP从北向东北飞行 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf) |
+| DOW-UAP-D016 | Mission Report, Syria, July 2022 | 2022/7/31 | 叙利亚 | PDF | 一个UAP从北向南移动，持续时间不到一分钟 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf) |
+| DOW-UAP-D018 | Mission Report, Iraq, December 2022 | 2022/12/1 | 伊拉克 | PDF | 一个"可能UAP"从西向东飞行 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf) |
+| DOW-UAP-D019 | Mission Report, Syria, February 21, 2023 | 2023/2/21 | 叙利亚 | PDF | 一个"可能气球"约2,100英尺高度 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d19-mission-report-syria-february-21-2023.pdf) |
+| DOW-UAP-D020 | Mission Report, Iraq, 2023 | 2023/3/31 | 伊拉克 | PDF | "几个明亮物体快速机动"，追踪约20秒后变暗消失 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-iraq-2023.pdf) |
+| DOW-UAP-D023 | Mission Report, UAE, October 2023 | 2023/10/31 | 阿拉伯湾 | PDF | 观察到一个UAP [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) |
+| DOW-UAP-D025 | Mission Report, Greece, January 2024 | 2024/1/25 | 地中海 | PDF | 菱形UAP，速度约434节(499 mph)，底部有非机动探针，仅SWIR传感器可见 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d25-mission-report-greece-january-2024.pdf) |
+| DOW-UAP-D027 | Mission Report, UAE, October 2023 | 2024/6/7 | 阿曼湾 | PDF | 一个UAP约24,000英尺高度，速度163节(187 mph) [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf) |
+| DOW-UAP-D028 | Mission Report, Iraq, September 2024 | 2024/9/20 | 伊拉克 | PDF | 武器校准测试中观察到镜头光斑，描述为UAP高速移动 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d28-mission-report-east-china-sea-2024.pdf) |
+| DOW-UAP-D032 | Mission Report, Syria, October 2024 | 2024/10/20 | 叙利亚 | PDF | "变形不均匀的白色光球"，多个"眩光或光线"从"未知来源"发出 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf) |
+| DOW-UAP-D033 | Mission Report, Greece, October 2023 | 2023/10/27 | 爱琴海 | PDF | UAP"在海面上方飞行"，多次90度转弯，约80 mph [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d33-mission-report-greece-october-2023.pdf) |
+| DOW-UAP-D035 | Mission Report, Greece, October 2023 | 2023/10/29 | 爱琴海 | PDF | UAP"在海面上方直线飞向陆地" [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf) |
+| DOW-UAP-D038 | Range Fouler Debrief, Middle East, May 2020 | 2020/5/14 | 阿拉伯湾 | PDF | "固体白色物体"在水面上方不规则移动 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf) |
+| DOW-UAP-D042 | Range Fouler Debrief, Japan, 2023 | 2020/8/31 | 阿拉伯湾 | PDF | 三个UAP"相互移动"，第二个超过第一个 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d42-range-fouler-debrief-japan-2023.pdf) |
+| DOW-UAP-D044 | Range Fouler Reporting Form, Gulf of Aden, October 2020 | 2020/10/15 | 阿拉伯海 | PDF | "圆形冷物体"，红外传感器，319度(西北)方向，约20 mph，突然改变方向 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf) |
+| DOW-UAP-D048 | Department of the Air Force Report, 1996 | 1996/9/10 | N/A | PDF | 不太可能的太空助推器故障风险计算建模 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d48-report-september-1996.pdf) |
+| DOW-UAP-D049 | Launch Summary, Vandenberg AFB, 2000 | 2000/2/3 | N/A | PDF | 范登堡空军基地1958-2000年发射历史记录摘要 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d49-launch-summary-february-2000.pdf) |
+| DOW-UAP-D050 | Email Correspondence, INDOPACOM, April 2025 | 2025/4/10-11 | N/A | PDF | 描述任务报告内容并请求澄清的电子邮件通信 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf) |
+| DOW-UAP-D051 | Email Correspondence, Pacific Time Zone, March 2023 | 2026/3/23 | 太平洋时区 | PDF | 描述任务报告内容并请求澄清的电子邮件通信 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf) |
+| DOW-UAP-D052 | Email Correspondance, NA, August 2024 | 2024/10/31 | N/A | PDF | 描述任务报告内容并请求澄清的电子邮件通信 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d52-email-correspondance-na-august-2024.pdf) |
+| DOW-UAP-D054 | Mission Report, Mediterranean Sea, NA | N/A | 地中海 | PDF | "三角形金属UAP"，高度24,989英尺，速度168节(193 mph) [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d54-mission-report-mediterranean-sea-na.pdf) |
+| DOW-UAP-D055 | Mission Report, Syria, November 2016 | 2016/11/18 | 叙利亚 | PDF | P-8A飞机通过EO/IR传感器观察到物体，"海掠模式"，约500节(575 mph)，东南航向，两分钟后失去视觉接触 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d55-mission-report-syria-november-2016.pdf) |
+| DOW-UAP-D056 | Range Fouler Debrief, Arabian Sea, August 2020 | 2020/8/24 | 阿拉伯海 | PDF | 北阿拉伯海上空三个"不明小型空中接触"，有"机翼/机身"结构 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf) |
+| DOW-UAP-D057 | Range Fouler Reporting Form, Gulf of Aden, September 2020 | 2020/9/4 | 亚丁湾 | PDF | "圆形冷物体"，追踪8分钟，"黑热"红外传感器，168度方向277 mph，几次突然改变方向 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf) |
+| DOW-UAP-D058 | Range Fouler Debrief, NA, October 2020 | 2020/10/27 | N/A | PDF | 两个UAP，"气球形状"，金属反射，"2x红色闪烁频闪灯"，一个围绕另一个盘旋 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf) |
+| DOW-UAP-D060 | Mission Report, Arabian Gulf, August 2020 | 2020/8/8 | 阿拉伯湾 | PDF | 一个UAP"过境"，对任务无影响 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf) |
+| DOW-UAP-D061 | Mission Report, Arabian Gulf, August 2020 | 2020/8/27 | 阿拉伯湾 | PDF | "未知飞行物体编队"沿海岸从东北向西北约两分钟 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf) |
+| DOW-UAP-D062 | Mission Report, Strait of Hormuz, September 2020 | 2020/9/16 | 霍尔木兹海峡 | PDF | 一个UAP约1,800英尺高度 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf) |
+| DOW-UAP-D063 | Mission Report, Strait of Hormuz, October 2020 | 2020/10/1 | 霍尔木兹海峡 | PDF | 观察到一个UAP [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf) |
+| DOW-UAP-D064 | Mission Report, Iran, November 2020 | 2020/11/2 | 伊朗 | PDF | 两个UAP，2143Z和2148Z，第二个向西北方向移动 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf) |
+| DOW-UAP-D065 | Mission Report, Arabian Gulf, July 2020 | 2020/7/16 | 阿拉伯湾 | PDF | 三个独立UAP，1830Z、1920Z和2345Z [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf) |
+| DOW-UAP-D074 | Mission Report, Syria, November 2023 | 2023/11/9 | 叙利亚 | PDF | "弹跳球形状"UAP，约424节(483 mph)持续至少7分钟，从南方接近，评估为"良性" [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf) |
+| DOW-UAP-D075 | Mission Report, Gulf of Aden, July 2024 | 2024/7/14 | 亚丁湾 | PDF | 一个UAP，"直线飞行路径相同高度"，速度"快于飞行速度"，评估为"良性" [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf) |
 
 #### 🎥 视频档案 (Department of War)
 
 | 档案编号 | 标题 | 视频ID | 事件地点 | 时长 | 描述 |
 |---------|------|--------|---------|------|------|
-| DOW-UAP-PR019 | Unresolved UAP Report, Middle East, May 2022 | 1006056 | 中东 | 5秒 | 红外传感器，"可能导弹"从左向右移动 |
+| DOW-UAP-PR019 | Unresolved UAP Report, Middle East, May 2022 | 1006056 | 中东 | 5秒 | 红外传感器，"可能导弹"从左向右移动 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf) |
 | DOW-UAP-PR020 | Unresolved UAP Report, Kuwait, May 2022 | N/A | 伊拉克 | PDF | 美国中央司令部提交的UAP报告，包含静止图像，描述为从北向东北移动的物体 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-pr20.pdf) |
-| DOW-UAP-PR021 | Unresolved UAP Report, Iraq, May 2022 | 1006059 | 伊拉克 | 10秒 | 两个对比区域在视野中心附近移动，"可能SU-27/35" |
-| DOW-UAP-PR022 | Unresolved UAP Report, Syria, July 2022 | 1006060 | 叙利亚 | 14秒 | 双传感器(红外+光电)，物体从右向左移动 |
-| DOW-UAP-PR023 | Unresolved UAP Report, Iraq, December 2022 | 1006062 | 伊拉克 | 10秒 | 对比区域从左下向右上移动，6秒时离开视野 |
-| DOW-UAP-PR026 | Unresolved UAP Report, UAE, October 2023 | 1006063 | 阿联酋 | 43秒 | 传感器追踪对比区域，多次平移和变焦 |
-| DOW-UAP-PR027 | Unresolved UAP Report, UAE, October 2023 | 1006067 | 阿联酋 | 4分57秒 | 长时间追踪，传感器反复丢失和重新捕获目标 |
+| DOW-UAP-PR021 | Unresolved UAP Report, Iraq, May 2022 | 1006059 | 伊拉克 | 10秒 | 两个对比区域在视野中心附近移动，"可能SU-27/35" [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf) |
+| DOW-UAP-PR022 | Unresolved UAP Report, Syria, July 2022 | 1006060 | 叙利亚 | 14秒 | 双传感器(红外+光电)，物体从右向左移动 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf) |
+| DOW-UAP-PR023 | Unresolved UAP Report, Iraq, December 2022 | 1006062 | 伊拉克 | 10秒 | 对比区域从左下向右上移动，6秒时离开视野 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf) |
+| DOW-UAP-PR026 | Unresolved UAP Report, UAE, October 2023 | 1006063 | 阿联酋 | 43秒 | 传感器追踪对比区域，多次平移和变焦 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) |
+| DOW-UAP-PR027 | Unresolved UAP Report, UAE, October 2023 | 1006067 | 阿联酋 | 4分57秒 | 长时间追踪，传感器反复丢失和重新捕获目标 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf) |
 | DOW-UAP-PR028 | Unresolved UAP Report, Greece, January 2024 | 1006073 | 希腊 | 1分5秒 | 菱形物体，仅SWIR可见，倒泪滴形状带垂直拖尾 |
 | DOW-UAP-PR029 | Unresolved UAP Report, UAE, June 2024 | 1006074 | 阿曼湾 | 21秒 | 倒泪滴形状带垂直拖尾质量 |
-| DOW-UAP-PR031 | Unresolved UAP Report, Syria, October 2024 | 1006076 | 叙利亚 | 5秒 | 多色区域从右向左移动 |
-| DOW-UAP-PR032 | Unresolved UAP Report, Syria, October 2024 | 1006078 | 叙利亚 | 6秒 | 不规则颜色和亮度区域，白色和红色高光 |
-| DOW-UAP-PR033 | Unresolved UAP Report, Syria, October 2024 | 1006079 | 叙利亚 | 5秒 | 两个半透明橙色区域，各持续不到两秒 |
-| DOW-UAP-PR034 | Unresolved UAP Report, Greece, October 2023 | 1006080 | 希腊 | 2分57秒 | 海面附近飞行，多次90度转弯，蓝色十字线锁定 |
-| DOW-UAP-PR035 | Unresolved UAP Report, Greece, October 2023 | 1006082 | 希腊 | 24秒 | 小圆形物体，海面飞向陆地，背景从水变为陆地时消失 |
-| DOW-UAP-PR036 | Unresolved UAP Report, Middle East, May 2020 | 1006083 | 中东 | 2分17秒 | 白色固体物体在水面上方不规则移动 |
-| DOW-UAP-PR037 | Unresolved UAP Report, Middle East, 2020 | 1006087 | 阿拉伯湾 | 9秒 | 对比区域从左下进入，线性路径从底部到顶部 |
-| DOW-UAP-PR038 | Unresolved UAP Report, Middle East, 2013 | 1006088 | 中东 | 1分46秒 | 八角星形状，交替长度臂，带可见尾迹 |
-| DOW-UAP-PR039 | Unresolved UAP Report, Middle East, 2020 | 1006089 | 阿拉伯湾 | 5秒 | 微弱对比区域从右下进入，从底部中心附近离开 |
-| DOW-UAP-PR040 | Unresolved UAP Report, Middle East, 2020 | 1006093 | 阿拉伯湾 | 1分3秒 | 带注释"U/I SMALL THERMAL SIGNATURE"的对比区域 |
-| DOW-UAP-PR041 | Unresolved UAP Report, Middle East, 2020 | 1006094 | 阿拉伯湾 | 1分34秒 | 对比区域从左侧进入，传感器平移追踪 |
-| DOW-UAP-PR042 | Unresolved UAP Report, Middle East, 2020 | 1006097 | 阿拉伯湾 | 4分53秒 | 对比区域间歇性消失和重现，多次传感器模态切换 |
-| DOW-UAP-PR043 | Unresolved UAP Report, Africa, 2025 | 1006159 | 吉布提 | 2秒 | 小型对比区域从左向右移动，循环播放 |
-| DOW-UAP-PR044 | Unresolved UAP Report, Middle East, 2020 | 1006104 | 阿拉伯湾 | 5分11秒 | 传感器追踪对比区域约3分钟，多次变焦和对比度循环 |
-| DOW-UAP-PR045 | Unresolved UAP Report, Middle East, 2020 | 1006105 | 美国南部 | 58秒 | 对比区域获得十字线锁定，逐渐增大和清晰 |
-| DOW-UAP-PR046 | Unresolved UAP Report, INDOPACOM, 2024 | 1006106 | 东海 | 9秒 | 足球形状主体，三个径向投影 |
-| DOW-UAP-PR047 | Unresolved UAP Report, INDOPACOM, 2023 | 1006107 | 日本 | 1分59秒 | 三个对比区域保持固定相对位置和方向 |
-| DOW-UAP-PR048 | Unresolved UAP Report, INDOPACOM, 2024 | 1006110 | INDOPACOM | 1分39秒 | 传感器追踪对比区域保持在中心 |
-| DOW-UAP-PR049 | Unresolved UAP Report, Department of the Army, 2026 | 1006111 | 北美 | 1分49秒 | 两个对比区域，多次变焦循环 |
+| DOW-UAP-PR031 | Unresolved UAP Report, Syria, October 2024 | 1006076 | 叙利亚 | 5秒 | 多色区域从右向左移动 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf) |
+| DOW-UAP-PR032 | Unresolved UAP Report, Syria, October 2024 | 1006078 | 叙利亚 | 6秒 | 不规则颜色和亮度区域，白色和红色高光 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf) |
+| DOW-UAP-PR033 | Unresolved UAP Report, Syria, October 2024 | 1006079 | 叙利亚 | 5秒 | 两个半透明橙色区域，各持续不到两秒 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf) |
+| DOW-UAP-PR034 | Unresolved UAP Report, Greece, October 2023 | 1006080 | 希腊 | 2分57秒 | 海面附近飞行，多次90度转弯，蓝色十字线锁定 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d33-mission-report-greece-october-2023.pdf) |
+| DOW-UAP-PR035 | Unresolved UAP Report, Greece, October 2023 | 1006082 | 希腊 | 24秒 | 小圆形物体，海面飞向陆地，背景从水变为陆地时消失 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf) |
+| DOW-UAP-PR036 | Unresolved UAP Report, Middle East, May 2020 | 1006083 | 中东 | 2分17秒 | 白色固体物体在水面上方不规则移动 [下载](https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf) |
+| DOW-UAP-PR037 | Unresolved UAP Report, Middle East, 2020 | 1006087 | 阿拉伯湾 | 9秒 | 对比区域从左下进入，线性路径从底部到顶部 [下载](https://www.dvidshub.net/video/1006087) |
+| DOW-UAP-PR038 | Unresolved UAP Report, Middle East, 2013 | 1006088 | 中东 | 1分46秒 | 八角星形状，交替长度臂，带可见尾迹 [下载](https://www.dvidshub.net/video/1006088) |
+| DOW-UAP-PR039 | Unresolved UAP Report, Middle East, 2020 | 1006089 | 阿拉伯湾 | 5秒 | 微弱对比区域从右下进入，从底部中心附近离开 [下载](https://www.dvidshub.net/video/1006089) |
+| DOW-UAP-PR040 | Unresolved UAP Report, Middle East, 2020 | 1006093 | 阿拉伯湾 | 1分3秒 | 带注释"U/I SMALL THERMAL SIGNATURE"的对比区域 [下载](https://www.dvidshub.net/video/1006093) |
+| DOW-UAP-PR041 | Unresolved UAP Report, Middle East, 2020 | 1006094 | 阿拉伯湾 | 1分34秒 | 对比区域从左侧进入，传感器平移追踪 [下载](https://www.dvidshub.net/video/1006094) |
+| DOW-UAP-PR042 | Unresolved UAP Report, Middle East, 2020 | 1006097 | 阿拉伯湾 | 4分53秒 | 对比区域间歇性消失和重现，多次传感器模态切换 [下载](https://www.dvidshub.net/video/1006097) |
+| DOW-UAP-PR043 | Unresolved UAP Report, Africa, 2025 | 1006159 | 吉布提 | 2秒 | 小型对比区域从左向右移动，循环播放 [下载](https://www.dvidshub.net/video/1006159) |
+| DOW-UAP-PR044 | Unresolved UAP Report, Middle East, 2020 | 1006104 | 阿拉伯湾 | 5分11秒 | 传感器追踪对比区域约3分钟，多次变焦和对比度循环 [下载](https://www.dvidshub.net/video/1006104) |
+| DOW-UAP-PR045 | Unresolved UAP Report, Middle East, 2020 | 1006105 | 美国南部 | 58秒 | 对比区域获得十字线锁定，逐渐增大和清晰 [下载](https://www.dvidshub.net/video/1006105) |
+| DOW-UAP-PR046 | Unresolved UAP Report, INDOPACOM, 2024 | 1006106 | 东海 | 9秒 | 足球形状主体，三个径向投影 [下载](https://www.dvidshub.net/video/1006106) |
+| DOW-UAP-PR047 | Unresolved UAP Report, INDOPACOM, 2023 | 1006107 | 日本 | 1分59秒 | 三个对比区域保持固定相对位置和方向 [下载](https://www.dvidshub.net/video/1006107) |
+| DOW-UAP-PR048 | Unresolved UAP Report, INDOPACOM, 2024 | 1006110 | INDOPACOM | 1分39秒 | 传感器追踪对比区域保持在中心 [下载](https://www.dvidshub.net/video/1006110) |
+| DOW-UAP-PR049 | Unresolved UAP Report, Department of the Army, 2026 | 1006111 | 北美 | 1分49秒 | 两个对比区域，多次变焦循环 [下载](https://www.dvidshub.net/video/1006111) |
 
 #### 📄 补充PDF档案
 
@@ -131,31 +131,31 @@
 
 | 档案编号 | 标题 | 事件日期 | 事件地点 | 描述 |
 |---------|------|---------|---------|------|
-| 65_HS1-834228961_62-HQ-83894_Section_001 | 62-HQ-83894 Section 001 | N/A | N/A | FBI UFO案件档案，调查记录、目击证词、公众报告(1947年6月-1968年7月) |
-| 65_HS1-834228961_62-HQ-83894_Section_002 | 62-HQ-83894 Section 002 | N/A | N/A | FBI UFO案件档案第二部分 |
-| 65_HS1-834228961_62-HQ-83894_Section_003 | 62-HQ-83894 Section 003 | N/A | N/A | FBI UFO案件档案第三部分 |
-| 65_HS1-834228961_62-HQ-83894_Section_004 | 62-HQ-83894 Section 004 | N/A | N/A | FBI UFO案件档案第四部分 |
-| 65_HS1-834228961_62-HQ-83894_Section_005 | 62-HQ-83894 Section 005 | N/A | N/A | FBI UFO案件档案第五部分 |
-| 65_HS1-834228961_62-HQ-83894_Section_006 | 62-HQ-83894 Section 006 | N/A | N/A | FBI UFO案件档案第六部分 |
-| 65_HS1-834228961_62-HQ-83894_Section_007 | 62-HQ-83894 Section 007 | N/A | N/A | FBI UFO案件档案第七部分 |
-| 65_HS1-834228961_62-HQ-83894_Section_008 | 62-HQ-83894 Section 008 | N/A | N/A | FBI UFO案件档案第八部分 |
-| 65_HS1-834228961_62-HQ-83894_Section_009 | 62-HQ-83894 Section 009 | N/A | N/A | FBI UFO案件档案第九部分 |
-| 65_HS1-834228961_62-HQ-83894_Section_010 | 62-HQ-83894 Section 010 | N/A | N/A | FBI UFO案件档案第十部分 |
-| 65_HS1-834228961_62-HQ-83894_Serial_130 | 62-HQ-83894 Serial 130 | N/A | N/A | FBI UFO案件档案序列130 |
-| 65_HS1-834228961_62-HQ-83894_Serial_153 | 62-HQ-83894 Serial 153 | N/A | N/A | FBI UFO案件档案序列153 |
-| 65_HS1-834228961_62-HQ-83894_Serial_164 | 62-HQ-83894 Serial 164 | N/A | N/A | FBI UFO案件档案序列164 |
-| 65_HS1-834228961_62-HQ-83894_Serial_220 | 62-HQ-83894 Serial 220 | N/A | N/A | FBI UFO案件档案序列220 |
-| 65_HS1-834228961_62-HQ-83894_Serial_403 | 62-HQ-83894 Serial 403 | N/A | N/A | FBI UFO案件档案序列403 |
-| 65_HS1-834228961_62-HQ-83894_Serial_438 | 62-HQ-83894 Serial 438 | N/A | N/A | FBI UFO案件档案序列438 |
-| 65_HS1-834228961_62-HQ-83894_Serial_449 | 62-HQ-83894 Serial 449 | N/A | N/A | FBI UFO案件档案序列449 |
-| 65_HS1-834228961_62-HQ-83894_SUB_A | 62-HQ-83894 SUB A | N/A | N/A | FBI UFO案件档案子项A |
+| 65_HS1-834228961_62-HQ-83894_Section_001 | 62-HQ-83894 Section 001 | N/A | N/A | FBI UFO案件档案，调查记录、目击证词、公众报告(1947年6月-1968年7月) [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_002 | 62-HQ-83894 Section 002 | N/A | N/A | FBI UFO案件档案第二部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_003 | 62-HQ-83894 Section 003 | N/A | N/A | FBI UFO案件档案第三部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_004 | 62-HQ-83894 Section 004 | N/A | N/A | FBI UFO案件档案第四部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_005 | 62-HQ-83894 Section 005 | N/A | N/A | FBI UFO案件档案第五部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_006 | 62-HQ-83894 Section 006 | N/A | N/A | FBI UFO案件档案第六部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_007 | 62-HQ-83894 Section 007 | N/A | N/A | FBI UFO案件档案第七部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_7.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_008 | 62-HQ-83894 Section 008 | N/A | N/A | FBI UFO案件档案第八部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_8.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_009 | 62-HQ-83894 Section 009 | N/A | N/A | FBI UFO案件档案第九部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Section_010 | 62-HQ-83894 Section 010 | N/A | N/A | FBI UFO案件档案第十部分 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Serial_130 | 62-HQ-83894 Serial 130 | N/A | N/A | FBI UFO案件档案序列130 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Serial_153 | 62-HQ-83894 Serial 153 | N/A | N/A | FBI UFO案件档案序列153 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Serial_164 | 62-HQ-83894 Serial 164 | N/A | N/A | FBI UFO案件档案序列164 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_164.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Serial_220 | 62-HQ-83894 Serial 220 | N/A | N/A | FBI UFO案件档案序列220 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_220.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Serial_403 | 62-HQ-83894 Serial 403 | N/A | N/A | FBI UFO案件档案序列403 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_403.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Serial_438 | 62-HQ-83894 Serial 438 | N/A | N/A | FBI UFO案件档案序列438 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf) |
+| 65_HS1-834228961_62-HQ-83894_Serial_449 | 62-HQ-83894 Serial 449 | N/A | N/A | FBI UFO案件档案序列449 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf) |
+| 65_HS1-834228961_62-HQ-83894_SUB_A | 62-HQ-83894 SUB A | N/A | N/A | FBI UFO案件档案子项A [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf) |
 
 #### 📝 特别调查案例
 
 | 档案编号 | 标题 | 事件日期 | 事件地点 | 描述 |
 |---------|------|---------|---------|------|
-| 65_HS1-101634279_100-DE-18221_Serial_844 | 100-DE-18221 Serial 844 | 1958/4/17 | 底特律 | 底特律男子目击"带有水晶圆顶的圆形物体" |
-| 65_HS1-101634279_100-DE-26505 | 100-DE-26505 | 1957/11/7 | 德国 | Wladyslaw Krasuski目击大型圆形垂直上升飞行器 |
+| 65_HS1-101634279_100-DE-18221_Serial_844 | 100-DE-18221 Serial 844 | 1958/4/17 | 底特律 | 底特律男子目击"带有水晶圆顶的圆形物体" [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-18221_serial_844.pdf) |
+| 65_HS1-101634279_100-DE-26505 | 100-DE-26505 | 1957/11/7 | 德国 | Wladyslaw Krasuski目击大型圆形垂直上升飞行器 [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-26505.pdf) |
 
 #### 📸 传感器图像档案 (2025)
 
@@ -205,10 +205,10 @@
 
 | 档案编号 | 标题 | 事件日期 | 事件地点 | 描述 |
 |---------|------|---------|---------|------|
-| FBI September 2023 Sighting - Composite Sketch | 复合素描 | 2023/9/1 | 美国 | 实际现场照片与FBI实验室渲染图形叠加，描绘椭球体青铜金属物体(130-195英尺长) |
-| FBI September 2023 Sighting - Serial 003 | Serial 003 | 2023/9/1 | 美国 | FBI 302访谈，美国公民第一手UAP遭遇证词，"金属青铜色" |
-| FBI September 2023 Sighting - Serial 004 | Serial 004 | 2023/9/1 | 美国 | FBI 302访谈，"金属/灰色"物体 |
-| FBI September 2023 Sighting - Serial 005 | Serial 005 | 2023/9/1 | 美国 | FBI 302访谈，"地平线上方的明亮光线" |
+| FBI September 2023 Sighting - Composite Sketch | 复合素描 | 2023/9/1 | 美国 | 实际现场照片与FBI实验室渲染图形叠加，描绘椭球体青铜金属物体(130-195英尺长) [下载](https://www.war.gov/medialink/ufo/release_1/2024-04-30-composite-sketch.pdf) |
+| FBI September 2023 Sighting - Serial 003 | Serial 003 | 2023/9/1 | 美国 | FBI 302访谈，美国公民第一手UAP遭遇证词，"金属青铜色" [下载](https://www.war.gov/medialink/ufo/release_1/serial 5 redacted_redacted.pdf) |
+| FBI September 2023 Sighting - Serial 004 | Serial 004 | 2023/9/1 | 美国 | FBI 302访谈，"金属/灰色"物体 [下载](https://www.war.gov/medialink/ufo/release_1/serial-3_redacted.pdf) |
+| FBI September 2023 Sighting - Serial 005 | Serial 005 | 2023/9/1 | 美国 | FBI 302访谈，"地平线上方的明亮光线" [下载](https://www.war.gov/medialink/ufo/release_1/serial-4-redacted_redacted.pdf) |
 
 #### 📋 补充访谈档案
 
@@ -224,19 +224,19 @@
 
 | 档案编号 | 标题 | 事件日期 | 事件地点 | 类型 | 描述 |
 |---------|------|---------|---------|------|------|
-| NASA-UAP-D001 | Apollo 12 Transcript, 1969 | 1969 | 月球 | PDF | 阿波罗12号技术空对地语音记录，第5天和第6天观察到不明现象 |
-| NASA-UAP-D002 | Apollo 17 Transcript, 1972 | 1972 | 月球 | PDF | 阿波罗17号技术空对地语音记录，第0、2、3天观察到不明现象 |
-| NASA-UAP-D004 | Apollo 11 Technical Crew Debriefing, 1969 | 1969 | N/A | PDF | 阿波罗11号技术机组简报，前往月球途中物体、舱内闪光、返回途中明亮光源 |
-| NASA-UAP-D005 | Apollo 17 Crew Debriefing for Science, 1973 | 1973 | N/A | PDF | 阿波罗17号科学机组简报，紫外实验意外结果 |
-| NASA-UAP-D006 | Apollo 17 Technical Crew Debriefing, 1973 | 1973 | N/A | PDF | 阿波罗17号技术机组简报，Harrison Schmitt报告观察到闪光 |
+| NASA-UAP-D001 | Apollo 12 Transcript, 1969 | 1969 | 月球 | PDF | 阿波罗12号技术空对地语音记录，第5天和第6天观察到不明现象 [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf) |
+| NASA-UAP-D002 | Apollo 17 Transcript, 1972 | 1972 | 月球 | PDF | 阿波罗17号技术空对地语音记录，第0、2、3天观察到不明现象 [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf) |
+| NASA-UAP-D004 | Apollo 11 Technical Crew Debriefing, 1969 | 1969 | N/A | PDF | 阿波罗11号技术机组简报，前往月球途中物体、舱内闪光、返回途中明亮光源 [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf) |
+| NASA-UAP-D005 | Apollo 17 Crew Debriefing for Science, 1973 | 1973 | N/A | PDF | 阿波罗17号科学机组简报，紫外实验意外结果 [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf) |
+| NASA-UAP-D006 | Apollo 17 Technical Crew Debriefing, 1973 | 1973 | N/A | PDF | 阿波罗17号技术机组简报，Harrison Schmitt报告观察到闪光 [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf) |
 
 #### 🛰️ 双子星和天空实验室档案
 
 | 档案编号 | 标题 | 事件日期 | 事件地点 | 类型 | 描述 |
 |---------|------|---------|---------|------|------|
-| NASA-UAP-D003 | Gemini 7 Transcript, 1965 | 1965/12/5 | 近地轨道 | PDF | 双子星7号通信记录，Frank Borman报告"bogey"和碎片场，手写注释"UFO Sighting by Borman" |
+| NASA-UAP-D003 | Gemini 7 Transcript, 1965 | 1965/12/5 | 近地轨道 | PDF | 双子星7号通信记录，Frank Borman报告"bogey"和碎片场，手写注释"UFO Sighting by Borman" [下载](https://www.war.gov/medialink/ufo/release_1/255_t_763_r1b_transcripts.pdf) |
 | NASA-UAP-D003A | Gemini 7 Audio Excerpt, 1965 | 1965/12/5 | 近地轨道 | VID | 双子星7号音频摘录，Borman报告不明物体 |
-| NASA-UAP-D007 | Skylab Technical Crew Debriefing 1973 | 1973 | N/A | PDF | 天空实验室三个机组的技术简报摘录，观察到闪光、卫星和"微红色"物体 |
+| NASA-UAP-D007 | Skylab Technical Crew Debriefing 1973 | 1973 | N/A | PDF | 天空实验室三个机组的技术简报摘录，观察到闪光、卫星和"微红色"物体 [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf) |
 
 #### 📸 补充图像档案
 
@@ -255,8 +255,8 @@
 
 | 档案编号 | 标题 | 事件日期 | 事件地点 | 类型 | 描述 |
 |---------|------|---------|---------|------|------|
-| 59_214434_SP 16 [7.18.1963] | SP 16 [7.18.1963] | 1963/7/18 | N/A | PDF | 总统执行办公室国家航空太空委员会备忘录，关于外星种族问题、发现外星智慧的计划、火星生命可能性 |
-| 59_64634_711.5612[7-2852 | 711.5612[7-2852 | 1952/7/28 | N/A | PDF | 关于UFO报告增加的备忘录，可能解释包括技术改进、历史记录、空军意见 |
+| 59_214434_SP 16 [7.18.1963] | SP 16 [7.18.1963] | 1963/7/18 | N/A | PDF | 总统执行办公室国家航空太空委员会备忘录，关于外星种族问题、发现外星智慧的计划、火星生命可能性 [下载](https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_[7.18.1963].pdf) |
+| 59_64634_711.5612[7-2852 | 711.5612[7-2852 | 1952/7/28 | N/A | PDF | 关于UFO报告增加的备忘录，可能解释包括技术改进、历史记录、空军意见 [下载](https://www.war.gov/medialink/ufo/release_1/59_64634_711.5612[7-2852.pdf) |
 
 #### 📡 补充外交电报档案
 
@@ -274,7 +274,7 @@
 
 | 档案编号 | 标题 | 发布机构 | 事件日期 | 事件地点 | 类型 | 描述 |
 |---------|------|---------|---------|---------|------|------|
-| 255_413270_UFO's_and_Defense_What_Should_we_Prepare_For | UFO's and Defense What Should we Prepare For | NASA | N/A | N/A | PDF | 法国COMETA协会独立研究报告(1999年发表于VDS杂志)，国防高等研究院研究结果，包含Carol Rosin关于von Braun的信函 |
+| 255_413270_UFO's_and_Defense_What_Should_we_Prepare_For | UFO's and Defense What Should we Prepare For | NASA | N/A | N/A | PDF | 法国COMETA协会独立研究报告(1999年发表于VDS杂志)，国防高等研究院研究结果，包含Carol Rosin关于von Braun的信函 [下载](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf) |
 
 ---
 
@@ -342,10 +342,71 @@
 
 ---
 
+## 📥 完整下载链接列表
+
+> 以下为所有档案的官方下载链接，共136个有效链接
+
+---
+
+### Department of War (战争部) 下载链接
+
+| 序号 | 档案标题 | 类型 | 下载链接 |
+|------|---------|------|----------|
+| 1 | 18_100754_ General 1946-7_Vol_2 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/18_100754_%20general%201946-7_vol_2.pdf) |
+| 2 | 18_6369445_General_1948_Vol_1 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf) |
+| 3 | 331_120752_Numeric_Files_1944–1945 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf) |
+| 4 | 341_110448_Records_Relating_to_Intelligence | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf) |
+| 5 | 341_110677_Numerical_File,_5-2500 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/341_110677_numerical_file_5-2500.pdf) |
+| 6 | 342_HS1-416511228_319.1 Flying Discs 1949 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf) |
+| 7 | 38_143685_box_Incident_Summaries_101-172 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_101-172.pdf) |
+| 8 | 38_143685_box_Incident_Summaries_173-233 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_173-233.pdf) |
+| 9 | 38_143685_box7_Incident_Summaries_1-100 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_1-100.pdf) |
+| 10-79 | Department of War 现代任务报告 (70份) | PDF/VID | [详见上文档案列表] |
+
+### FBI (联邦调查局) 下载链接
+
+| 序号 | 档案标题 | 类型 | 下载链接 |
+|------|---------|------|----------|
+| 1 | 65_HS1-101634279_100-DE-18221_Serial_844 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-18221_serial_844.pdf) |
+| 2 | 65_HS1-101634279_100-DE-26505 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-26505.pdf) |
+| 3-20 | FBI 62-HQ-83894 案件档案 (18份) | PDF | [详见上文档案列表] |
+| 21-28 | FBI Photo A系列 (8张) | IMG | [详见上文档案列表] |
+| 29-52 | FBI Photo B系列 (24张) | PDF | [详见上文档案列表] |
+| 53-57 | FBI 2023年9月目击事件 (5份) | PDF | [详见上文档案列表] |
+
+### NASA (国家航空航天局) 下载链接
+
+| 序号 | 档案标题 | 类型 | 下载链接 |
+|------|---------|------|----------|
+| 1 | 255_413270_UFO's_and_Defense | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf) |
+| 2 | NASA-UAP-D001, Apollo 12 Transcript, 1969 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf) |
+| 3 | NASA-UAP-D002, Apollo 17 Transcript, 1972 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf) |
+| 4 | NASA-UAP-D003, Gemini 7 Transcript, 1965 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/255_t_763_r1b_transcripts.pdf) |
+| 5 | NASA-UAP-D004, Apollo 11 Technical Crew Debriefing | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf) |
+| 6 | NASA-UAP-D005, Apollo 17 Crew Debriefing for Science | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf) |
+| 7 | NASA-UAP-D006, Apollo 17 Technical Crew Debriefing | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf) |
+| 8 | NASA-UAP-D007, Skylab Technical Crew Debriefing | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf) |
+| 9-14 | NASA-UAP-VM 图像档案 (6张) | IMG | [详见上文档案列表] |
+
+### Department of State (国务院) 下载链接
+
+| 序号 | 档案标题 | 类型 | 下载链接 |
+|------|---------|------|----------|
+| 1 | 59_214434_SP 16 [7.18.1963] | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_[7.18.1963].pdf) |
+| 2 | 59_64634_711.5612[7-2852 | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/59_64634_711.5612[7-2852.pdf) |
+| 3 | State Department UAP Cable 001, Papua New Guinea | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf) |
+| 4 | State Department UAP Cable 002, Kazakhstan | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf) |
+| 5 | State Department UAP Cable 003, Tbilisi, Georgia | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/059uap00011.pdf) |
+| 6 | State Department UAP Cable 004, Ashgabat, Turkmenistan | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf) |
+| 7 | State Department UAP Cable 005, Mexico | PDF | [下载](https://www.war.gov/medialink/ufo/release_1/059uap00013.pdf) |
+
+---
+
 <div align="center">
 
 **最后更新**: 2026年5月8日  
 **数据来源**: 美国政府官方解密档案  
-**档案总数**: 158份
+**档案总数**: 158份  
+**下载链接**: 136个
 
 </div>
