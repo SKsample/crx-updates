@@ -21,7 +21,7 @@
 
 ---
 
-### 1️⃣ Department of War (战争部) - 79份档案
+### 1️⃣ 战争部 (Department of War) - 79份档案
 
 | 编号 | 标题 | 日期 | 地点 | 类型 | 描述 | 下载 |
 |------|------|------|------|------|------|------|
@@ -107,7 +107,7 @@
 
 ---
 
-### 2️⃣ FBI (联邦调查局) - 57份档案
+### 2️⃣ 联邦调查局 (FBI) - 57份档案
 
 | 编号 | 标题 | 日期 | 地点 | 类型 | 描述 | 下载 |
 |------|------|------|------|------|------|------|
@@ -171,19 +171,19 @@
 
 ---
 
-### 3️⃣ NASA (国家航空航天局) - 15份档案
+### 3️⃣ 国家航空航天局 (NASA) - 15份档案
 
 | 编号 | 标题 | 日期 | 地点 | 类型 | 描述 | 下载 |
 |------|------|------|------|------|------|------|
-| 1 | 255_413270_UFO's_and_Defense_What_Should... | N/A | N/A | PDF | This file contains an independent report on UFOs written by ... | [📥](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf) |
+| 1 | 255_413270_UFO's_and_Defense_What_Should... | 未知 | N/A | PDF | This file contains an independent report on UFOs written by ... | [📥](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf) |
 | 2 | NASA-UAP-D001, Apollo 12 Transcript, 196... | 1969 | Moon | PDF | Apollo 12 was the fourth crewed U.S. mission to the Moon and... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf) |
 | 3 | NASA-UAP-D002, Apollo 17 Transcript, 197... | 1972 | Moon | PDF | Apollo 17 was the ninth crewed U.S. mission to the Moon, and... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf) |
 | 4 | NASA-UAP-D003, Gemini 7 Transcript, 1965 | 12/5/65 | Low Earth Orbit | PDF | Gemini 7 was the tenth crewed American spaceflight. This doc... | [📥](https://www.war.gov/medialink/ufo/release_1/255_t_763_r1b_transcripts.pdf) |
 | 5 | NASA-UAP-D003A, Gemini 7 Audio Excerpt, ... | 12/5/65 | Low Earth Orbit | VID | This audio recording contains air to ground communications a... | [📥]() |
-| 6 | NASA-UAP-D004, Apollo 11 Technical Crew ... | 1969 | N/A | PDF | Apollo 11 was the third crewed mission to the Moon and the f... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf) |
-| 7 | NASA-UAP-D005, Apollo 17 Crew Debriefing... | 1973 | N/A | PDF | Apollo 17 was the ninth crewed U.S. mission to the Moon, and... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf) |
-| 8 | NASA-UAP-D006, Apollo 17 Technical Crew ... | 1973 | N/A | PDF | Apollo 17 was the ninth crewed U.S. mission to the Moon, and... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf) |
-| 9 | NASA-UAP-D007, Skylab Techincal Crew Deb... | 1973 | N/A | PDF | Launched on May 14, 1973, Skylab was the United States’ firs... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf) |
+| 6 | NASA-UAP-D004, Apollo 11 Technical Crew ... | 1969 | 未知 | PDF | Apollo 11 was the third crewed mission to the Moon and the f... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf) |
+| 7 | NASA-UAP-D005, Apollo 17 Crew Debriefing... | 1973 | 未知 | PDF | Apollo 17 was the ninth crewed U.S. mission to the Moon, and... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf) |
+| 8 | NASA-UAP-D006, Apollo 17 Technical Crew ... | 1973 | 未知 | PDF | Apollo 17 was the ninth crewed U.S. mission to the Moon, and... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf) |
+| 9 | NASA-UAP-D007, Skylab Techincal Crew Deb... | 1973 | 未知 | PDF | Launched on May 14, 1973, Skylab was the United States’ firs... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf) |
 | 10 | NASA-UAP-VM001, Apollo 12, 1969 | 1969 | Moon | IMG | This archival photograph depicts the lunar surface as viewed... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm1-apollo-12-1969.jpg) |
 | 11 | NASA-UAP-VM002, Apollo 12, 1969 | 1969 | Moon | IMG | This archival photograph depicts the lunar surface as viewed... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm2-apollo-12-1969.jpg) |
 | 12 | NASA-UAP-VM003, Apollo 12, 1969 | 1969 | Moon | IMG | This archival photograph depicts the lunar surface as viewed... | [📥](https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm3-apollo-12-1969.jpg) |
@@ -193,7 +193,7 @@
 
 ---
 
-### 4️⃣ Department of State (国务院) - 7份档案
+### 4️⃣ 国务院 (Department of State) - 7份档案
 
 | 编号 | 标题 | 日期 | 地点 | 类型 | 描述 | 下载 |
 |------|------|------|------|------|------|------|
@@ -222,10 +222,10 @@
 
 | 部门 | 数量 | 占比 |
 |------|------|------|
-| Department of War | 79 | 50.0% |
-| FBI | 57 | 36.1% |
-| NASA | 15 | 9.5% |
-| Department of State | 7 | 4.4% |
+| 战争部 | 79 | 50.0% |
+| 联邦调查局 | 57 | 36.1% |
+| 国家航空航天局 | 15 | 9.5% |
+| 国务院 | 7 | 4.4% |
 
 ---
 
